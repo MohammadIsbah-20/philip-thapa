@@ -1,5 +1,6 @@
-<h2>Hey there! I'm Philip</h2>
-### 👨🏻‍💻 &nbsp;About Me
+## Hey there! I'm Philip
+
+### 👨🏻‍💻 &nbsp;About Me 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I am 2021 passed out UG from Global Institute of Engineering and Technology, Hyderabad & I'm currently looking for an opportunities .\
@@ -7,9 +8,10 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at philipthapa3@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/drive/my-drive) for more details about me. I'm open to feedback and suggestions!
 
-<h3> 🛠 &nbsp;Languages and Tools</h3>
+---
+
+### 🛠 &nbsp;Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -40,6 +42,8 @@
  ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -49,9 +53,13 @@
 </a>
 </p>
 
+---
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
