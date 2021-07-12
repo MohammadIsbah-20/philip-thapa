@@ -1,6 +1,6 @@
 ## Hey there! I'm Philip
 
-### 👨🏻‍💻 &nbsp;About Me 
+### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I am 2021 passed out UG from Global Institute of Engineering and Technology, Hyderabad & I'm currently looking for an opportunities .\
@@ -69,8 +69,9 @@
 <a href="philipthapa3@gmail.com"><img src="https://img.shields.io/badge/-philipthapa3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/__philip__thapa__/"><img src="https://img.shields.io/badge/-@__philip__thapa__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/philip.thapa.961"><img src="https://img.shields.io/badge/-@PhilipThapa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=HackerRank"></a>
+<a href="https://www.hackerrank.com/philipthapa3"><img src="https://img.shields.io/badge/-Philipthapa-000?style=flat&logo=HackerRank&logoColor=white"/></a>
 
 ---
 
+<p align="center">
 ![Profile views](https://gpvc.arturio.dev/philip-thapa)
