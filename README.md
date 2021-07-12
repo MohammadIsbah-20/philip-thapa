@@ -38,8 +38,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
- ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 
 ---
@@ -70,5 +70,7 @@
 <a href="https://www.instagram.com/__philip__thapa__/"><img src="https://img.shields.io/badge/-@__philip__thapa__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/philip.thapa.961"><img src="https://img.shields.io/badge/-@PhilipThapa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=HackerRank"></a>
+
+---
 
 ![Profile views](https://gpvc.arturio.dev/philip-thapa)
